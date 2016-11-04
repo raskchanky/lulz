@@ -1,5 +1,9 @@
 require "lulz/version"
 
 module Lulz
-  # Your code goes here...
+  class A
+    def sweet
+      "dude!"
+    end
+  end
 end
