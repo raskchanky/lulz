@@ -1,6 +1,6 @@
 # Lulz
 
-This is not to be taken seriously. Yay.
+This is not to be taken seriously. Yay. Again.
 
 ## License
 
